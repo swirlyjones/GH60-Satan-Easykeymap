@@ -1,6 +1,6 @@
-## GH60-Satan-Easykeymap
+### GH60-Satan-Easykeymap
 
-#All credit goes to dhowland (https://github.com/dhowland) for the awesome tool.
+##All credit goes to dhowland (https://github.com/dhowland) for the awesome tool.
 
 #First commit 11/09/2016
 
