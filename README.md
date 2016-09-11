@@ -1,8 +1,8 @@
-### GH60-Satan-Easykeymap
+#GH60-Satan-Easykeymap
 
 ##All credit goes to dhowland (https://github.com/dhowland) for the awesome tool.
 
-#First commit 11/09/2016
+###First commit 11/09/2016
 
 Included are the layout files and firmware for the first fully working config for my GH60 Satan HHKB clone.
 
