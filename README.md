@@ -14,3 +14,7 @@ Updates to the layout will be added as separate layout and firmware files.
 v1.30 is my "starting point" layout. Be aware that although this mostly matches the keycaps included with many kits, there are some alterations.
 
 v1.31 adds winlock with the key combination Fn + Win (I got fed up with hitting win instead of alt when playing DotA2.)
+
+v1.32 added - RAM macro record and play
+			- scroll lock as toggle
+			- caps led flashing to indicate states
